@@ -1,0 +1,2 @@
+var e=globalThis.parcelRequire94c2;(0,e.register)("hVM3A",function(t,i){Object.defineProperty(t.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(t.exports,"default",{get:()=>a,set:void 0,enumerable:!0,configurable:!0});var r=e("ayMG0"),a=()=>(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)("div",{children:"Contactus"}),(0,r.jsx)("p",{children:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta corrupti sapiente aperiam, harum iste voluptates eligendi aut totam eos? Eos."})]})});
+//# sourceMappingURL=Contactus.ae9b0f6f.js.map

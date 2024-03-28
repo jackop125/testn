@@ -1,0 +1,2 @@
+var e=globalThis.parcelRequire94c2;(0,e.register)("gQ9BM",function(i,t){Object.defineProperty(i.exports,"__esModule",{value:!0,configurable:!0}),Object.defineProperty(i.exports,"default",{get:()=>a,set:void 0,enumerable:!0,configurable:!0});var r=e("ayMG0"),a=()=>(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)("div",{children:"Aboutus"}),(0,r.jsx)("p",{children:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eveniet at fuga iusto neque numquam ad quae voluptate blanditiis ipsum perspiciatis."})]})});
+//# sourceMappingURL=Aboutus.a4f01d21.js.map
